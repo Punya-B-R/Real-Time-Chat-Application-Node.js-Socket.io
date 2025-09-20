@@ -24,7 +24,7 @@ This is a simple chat system implemented using Socket.io and Node.js. The projec
 
 To run the chat system locally, follow these steps:
 
-1. Clone the repository: `https://github.com/RaoofJM/nodejs-socketio-chat-application`
+1. Clone the repository: `https://github.com/Punya-B-R/Real-Time-Chat-Application-Node.js-Socket.io.git`
 2. Install the dependencies: `npm install`
 3. Start the server: `npm start`
 4. Access the chat system in your web browser: `http://localhost:3000`
